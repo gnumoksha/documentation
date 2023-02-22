@@ -106,7 +106,7 @@
     contents:
 
     - action: integrations
-      branch: main
+      branch: alpinet/stripe-fips
       globs:
       - "*/metadata.csv"
       - "*/manifest.json"
